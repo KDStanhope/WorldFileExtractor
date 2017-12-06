@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 04 07:15:06 2017
 
-@author: KylePratt
+@author: KDStanhope
 
 This does a simple job.
 """
