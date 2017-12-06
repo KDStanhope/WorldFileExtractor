@@ -1,7 +1,7 @@
 # WorldFileExtractor
 Makes a TiffWorld file Using Headers From Existing GeoTiff.
 
-<b>WorldFileExtractor.py</b> and <b>WorldFileExtractor_Commented</b> do exactly the same thing
+<b>WorldFileExtractor.py</b> and <b>WorldFileExtractor_Commented.py</b> do exactly the same thing
 
 <b>Just Download WorldFileExtractor.py and run it in a folder with a bunch of GeoTiffs to extract a .tfw file :) </b>
 
