@@ -1,10 +1,13 @@
 # WorldFileExtractor
 Makes a TiffWorld file Using Headers From Existing GeoTiff.
 
+<b>Just Download WorldFileExtractor.py and run it in a folder with a bunch of GeoTiffs to extract a .tfw file :) </b>
+
 Works with python 3.6!
 Not tested on 2.7 but it should work. 
 
-Sometimes you just a tiff world file when all you have is a GeoTiff. 
+<i>Sometimes you just need a tiff world file when all you have is a GeoTiff. </i>
+
 This makes them. 
 Simply pop this in the same folder as all of your GeoTiffs and run. 
 Or execute from commandline... again, just make sure its in the same folder as all your tiffs.
