@@ -1,6 +1,8 @@
 # WorldFileExtractor
 Makes a TiffWorld file Using Headers From Existing GeoTiff.
 
+<b>WorldFileExtractor.py</b> and <b>WorldFileExtractor_Commented</b> do exactly the same thing
+
 <b>Just Download WorldFileExtractor.py and run it in a folder with a bunch of GeoTiffs to extract a .tfw file :) </b>
 
 Works with python 3.6!
@@ -18,3 +20,5 @@ For those who can't seem to install the GDAL-2.2 libs for python you can easily 
 <code>pip install gdal-2.2.3-cp36-cp36m-win32.whl</code>
 
 The other option is to do it manually or using the OSGeo4W web installer.  
+
+<b>Added a version called WorldFileExtractor_Commented.py that fully explains what is going for those interested in learning </b>
